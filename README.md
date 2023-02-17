@@ -8,18 +8,18 @@ The Raspberry Pi Pico W belongs to the Raspberry Pi Pico family (4 boards). Key 
 
 - USB 1.1 with device and host support
 
--Low-power sleep and dormant modes
+- Low-power sleep and dormant modes
 
--Drag-and-drop programming using mass storage over USB
+- Drag-and-drop programming using mass storage over USB
 
--26 × multi-function GPIO pins
+- 26 × multi-function GPIO pins
 
--2 × SPI, 2 × I2C, 2 × UART, 3 × 12-bit ADC, 16 × controllable PWM channels
+- 2 × SPI, 2 × I2C, 2 × UART, 3 × 12-bit ADC, 16 × controllable PWM channels
 
--Accurate clock and timer on-chip
+- Accurate clock and timer on-chip
 
--Temperature sensor
+- Temperature sensor
 
--Accelerated floating-point libraries on-chip
+- Accelerated floating-point libraries on-chip
 
--8 × Programmable I/O (PIO) state machines for custom peripheral support
+- 8 × Programmable I/O (PIO) state machines for custom peripheral support
