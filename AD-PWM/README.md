@@ -4,15 +4,23 @@ A rotary potentiometer is a device that can change its resistance value accordin
 
 ![image](https://user-images.githubusercontent.com/124889423/222922284-c89e0ae9-6b17-4952-8fdd-5dc14c489392.png)
 
-When you rotate the knob, the sliding wiper connected to the knob slides on the resistive
-material with the rotation. With the sliding, the length of resistive material between A–B and B–
-C changes, which causes the resistance value and thus the output voltage to change accordingly.
-Using the Rotary Angle Sensor, we can easily input analog signals of different values to Pico.
+When you rotate the knob, the sliding wiper connected to the knob slides on the resistive material with the rotation. With the sliding, the length of resistive material between A–B and B–C changes, which causes the resistance value and thus the output voltage to change accordingly. Using the Rotary Angle Sensor, we can easily input analog signals of different values to Pico.
 
-Download [this file](RotaryAngleSensor.py) to test by yourself all the programs
+Open [this file](RotaryAngleSensor.py) to test by yourself all the programs. Uncomment the part you want to try. 
 
-## testing the sensor
+## Testing the sensor 
 
+This program displays the analog value returned by the Rotary Angle Sensor in the Shell.
+
+### Hardware needed :                   
+
+- Raspberry Pi Pico
+- Grove Shell for Pi Pico
+- Grove Rotary Angle Sensor         
+
+### Connections :
+
+![image](https://user-images.githubusercontent.com/124889423/222924777-b985393d-ca51-4580-b392-2447907eddc6.png)
 
 ![image](https://user-images.githubusercontent.com/124889423/222919915-2593b499-2cd0-49d7-afdb-646c8c0274c3.png)
 
