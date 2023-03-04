@@ -9,6 +9,7 @@ material with the rotation. With the sliding, the length of resistive material b
 C changes, which causes the resistance value and thus the output voltage to change accordingly.
 Using the Rotary Angle Sensor, we can easily input analog signals of different values to Pico.
 
+Download [this file]() to test by yourself all the programs
 
 ## testing the sensor
 
