@@ -35,13 +35,15 @@ This code make a led blink with a for loop
 
 ### Demonstartion : 
 
+You can see the led blinking 10 times.
+
 https://user-images.githubusercontent.com/124889423/224554670-5c156ccd-f622-4161-be91-171a1d759fb7.mp4
 
 
 
 ## Blink with while loop 
 
-This code make a led blink with a while loop
+This code make a led blink with a while loop.
 
 ### Hardware needed : 
 
@@ -59,4 +61,58 @@ This code make a led blink with a while loop
 
 ### Demonstration : 
 
+You can see the led blinking.
 ![image](https://user-images.githubusercontent.com/124889423/224554881-50845f35-3cbd-4cda-b318-3d5e69c5e01f.png)
+
+
+## turning the led ON with the button
+
+This code will turn the LED ON when the button is pressed
+
+### Hardware needed : 
+
+- Raspberry Pi Pico 
+- Grove Shield for Pi Pico
+- Grove - LED Pack
+- Grove - Button
+
+### Connections : 
+
+![image](https://user-images.githubusercontent.com/124889423/224555145-b1f8e41c-6669-4ab6-ac34-4cdc2017dc78.png)
+
+### Code : 
+
+![image](https://user-images.githubusercontent.com/124889423/224555189-96ddc008-4f8a-4ce1-8bf7-87e50ce46cb5.png)
+
+### Demonstration : 
+
+You can see the led turning ON when the button is pressed.
+
+https://user-images.githubusercontent.com/124889423/224555244-70c66e0c-74db-47ce-b55b-36788add76ae.mp4
+
+
+
+## switching led mode with the button
+
+This code will switch the led state as the button is pressed.
+
+## Hardware needed : 
+
+- Raspberry Pi Pico 
+- Grove Shield for Pi Pico
+- Grove - LED Pack
+- Grove - Button
+
+## Connections : 
+
+![image](https://user-images.githubusercontent.com/124889423/224555145-b1f8e41c-6669-4ab6-ac34-4cdc2017dc78.png)
+
+## Code : 
+
+![image](https://user-images.githubusercontent.com/124889423/224555477-44408286-886a-4eed-87cb-5d997f3fc48b.png)
+
+## Demonstration : 
+
+You can see that the led state switches as the button is pressed
+
+https://user-images.githubusercontent.com/124889423/224555582-cb2d822e-3f55-49dc-b41f-6d02fb437a8d.mp4
