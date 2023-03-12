@@ -16,7 +16,7 @@ While ... : starting a while loop with a condition.
 All the codes used below with comments : 
 
 - [Button](Button.py)
-- [Blinking led](Blinking led.py)
+- [Blinking Led](BlinkingLed.py)
 
 ## Blink with for loop 
 
