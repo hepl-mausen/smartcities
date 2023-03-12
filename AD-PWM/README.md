@@ -43,7 +43,11 @@ A rotary potentiometer is a device that can change its resistance value accordin
 
 When you rotate the knob, the sliding wiper connected to the knob slides on the resistive material with the rotation. With the sliding, the length of resistive material between A–B and B–C changes, which causes the resistance value and thus the output voltage to change accordingly. Using the Rotary Angle Sensor, we can easily input analog signals of different values to Pico.
 
-You can find [here](RotaryAngleSensor.py) all the programs tested below with comments.
+You can find here all the programs tested below with comments : 
+
+- [Rotary Angle Sensor](RotaryAngleSensor.py)
+- [PWM](PWM.py)
+- [Music](Music.py)
 
 
 
