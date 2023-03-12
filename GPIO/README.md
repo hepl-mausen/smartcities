@@ -97,22 +97,22 @@ https://user-images.githubusercontent.com/124889423/224555244-70c66e0c-74db-47ce
 
 This code will switch the led state as the button is pressed.
 
-## Hardware needed : 
+### Hardware needed : 
 
 - Raspberry Pi Pico 
 - Grove Shield for Pi Pico
 - Grove - LED Pack
 - Grove - Button
 
-## Connections : 
+### Connections : 
 
 ![image](https://user-images.githubusercontent.com/124889423/224555145-b1f8e41c-6669-4ab6-ac34-4cdc2017dc78.png)
 
-## Code : 
+### Code : 
 
 ![image](https://user-images.githubusercontent.com/124889423/224555477-44408286-886a-4eed-87cb-5d997f3fc48b.png)
 
-## Demonstration : 
+### Demonstration : 
 
 You can see that the led state switches as the button is pressed
 
