@@ -1,3 +1,40 @@
+# Python functions used below
+
+from ... import ... : import un function from a library.
+
+ADC() : setting the pin between the parentheses as an ADC.
+
+print() : print what's inside the parentheses in the console.
+
+sleep() : the program stops during the time set in the parentheses (in sec).
+
+sleep_ms() : the program stops during the time set in the parentheses (in ms).
+
+Pin(*number, Pin.IN/OUT*) : define a pin number as an out/input by filling the parentheses. 
+
+While ... : starting a while loop with a condition.
+
+if ... : Startin a part of code under conditions.
+
+read_u16() : read the value from the selected Pin on 16 bits (0 -> 65535).
+
+value() : put the value between parentheses on the selected Pin.
+
+PWM() : set the selected Pin as an PWM out/input.
+
+freq() : set the PWM frequence by filling the parentheses.
+
+duty_u16() : set the PWM duty cycle (16 bits) by filling the parentheses.
+
+def *function* () : define a function to call later.
+
+*function*() :  call the function previously created.
+
+
+
+
+
+
 # Rotary Angle Sensor 
 
 A rotary potentiometer is a device that can change its resistance value according to the rotation of the adjusting knob.
@@ -166,3 +203,36 @@ The code make the LED go from dark to light then from light to dark.
 You can see the brightness of the led beeing modified automatically.
 
 https://user-images.githubusercontent.com/124889423/224548573-563c2971-e1bc-43c5-b655-585419fc796c.mp4
+
+
+
+
+
+
+## Making The Imperial March - STAR WARS with the buzzer 
+
+This code make the Imperial March from STAR WARS with the buzzer.
+
+### hardware needed : 
+
+- Raspberry Pi Pico
+- Grove Shield for Pi Pico
+- Grove - Passive Buzzer
+
+### Connections : 
+
+![image](https://user-images.githubusercontent.com/124889423/224550337-1eabdb12-7f2d-4e15-a256-42448a2e3a98.png)
+
+### Code : 
+
+![image](https://user-images.githubusercontent.com/124889423/224550502-a547939b-b1f1-4274-bdc3-379f9942c97f.png)
+![image](https://user-images.githubusercontent.com/124889423/224550570-0fe73a11-1891-41d1-a177-af639f75c3ba.png)
+![image](https://user-images.githubusercontent.com/124889423/224550617-ae5e96bb-d1fc-4b15-a43c-ccf8d59a49f6.png)
+![image](https://user-images.githubusercontent.com/124889423/224550636-b0bafbc9-a687-4356-a51a-43f0298c706a.png)
+![image](https://user-images.githubusercontent.com/124889423/224550656-3565db9c-7b21-4def-840e-52bb8db54b8e.png)
+
+### Demonstration : 
+
+You can hear the Imperial March from STAR WARS ! 
+
+https://user-images.githubusercontent.com/124889423/224550912-03ec879f-9e98-498b-a7d0-8110ee54bdef.mp4
