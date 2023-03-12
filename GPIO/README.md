@@ -62,7 +62,8 @@ This code make a led blink with a while loop.
 ### Demonstration : 
 
 You can see the led blinking.
-![image](https://user-images.githubusercontent.com/124889423/224554881-50845f35-3cbd-4cda-b318-3d5e69c5e01f.png)
+
+https://user-images.githubusercontent.com/124889423/224555662-f0cea79f-e448-4f2a-bf98-2fa1c419aba7.mp4
 
 
 ## turning the led ON with the button
