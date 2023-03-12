@@ -112,3 +112,50 @@ In the meantime, we provide detailed tutorials for each module. Micropython is c
 
 # Thonny 
 Thonny is a Python IDE for begginers
+
+## Features : 
+
+**Easy to get started**. Thonny comes with Python 3.10 built in, so just one simple installer is needed and you're ready to learn programming. (You can also use a separate Python installation, if necessary.) The initial user interface is stripped of all features that may distract beginners.   
+
+![image](https://user-images.githubusercontent.com/124889423/224557222-228af6e3-db79-49ee-8ef7-3f789ff7c8d1.png)
+
+
+**No-hassle variables**. Once you're done with hello-worlds, select View → Variables and see how your programs and shell commands affect Python variables.
+
+![image](https://user-images.githubusercontent.com/124889423/224557299-9033be6a-5226-4b2b-9fc5-8d224e898164.png)
+
+**Simple debugger**. Just press Ctrl+F5 instead of F5 and you can run your programs step-by-step, no breakpoints needed. Press F6 for a big step and F7 for a small step. Steps follow program structure, not just code lines.
+
+![image](https://user-images.githubusercontent.com/124889423/224557377-cd908158-dc00-4c49-a209-8b3f8e28eed0.png)
+
+**Step through expression evaluation**. If you use small steps, then you can even see how Python evaluates your expressions. You can think of this light-blue box as a piece of paper where Python replaces subexpressions with their values, piece-by-piece.
+
+![image](https://user-images.githubusercontent.com/124889423/224557411-a3a1780c-482b-42e1-be25-e02efe7741cd.png)
+
+**Faithful representation of function calls**. Stepping into a function call opens a new window with separate local variables table and code pointer. Good understanding of how function calls work is especially important for understanding recursion.
+
+![image](https://user-images.githubusercontent.com/124889423/224557443-914b9722-2a12-4a1d-a2ad-360f21678c30.png)
+
+**Highlights syntax errors**. Unclosed quotes and parentheses are the most common beginners' syntax errors. Thonny's editor makes these easy to spot.
+
+![image](https://user-images.githubusercontent.com/124889423/224557464-810f8b9c-01a9-4440-af28-8216243bf958.png)
+
+**Explains scopes**. Highlighting variable occurrences reminds you that the same name doesn't always mean the same variable and helps spotting typos. Local variables are visually distinguished from globals.
+
+![image](https://user-images.githubusercontent.com/124889423/224557485-25eb5d57-8445-45e6-b62f-49a643626512.png)
+
+**Mode for explaining references**. Variables are initially presented according to simplified model (name → value) but you can switch to more realistic model (name → address/id → value).
+
+![image](https://user-images.githubusercontent.com/124889423/224557496-c60bcc35-20c6-450c-bab0-542932fc9ed1.png)
+
+**Code completion**. Students can explore APIs with the help of code completion.
+
+![image](https://user-images.githubusercontent.com/124889423/224557529-0b8c81b0-0516-44f6-9988-c22ba642c680.png)
+
+**Beginner friendly system shell**. Select Tools → Open system shell to install extra packages or learn handling Python on command line. PATH and conflicts with other Python interpreters are taken care of by Thonny.
+
+![image](https://user-images.githubusercontent.com/124889423/224557560-5f321cce-089d-468c-b9b5-a917bbdbccca.png)
+
+**Simple and clean pip GUI**. Select Tools → Manage packages for even easier installation of 3rd party packages.
+
+![image](https://user-images.githubusercontent.com/124889423/224557578-d82df03e-a7ec-4002-b98b-6fd9125732e7.png)
