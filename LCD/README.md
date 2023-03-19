@@ -48,7 +48,7 @@ You can find here all the programs tested below with comments, save [this code](
 - [LCD](LCD.py)
 
 
-This program displays 'Hello world' on the screen
+## This program displays 'Hello world' on the screen
 
 ### Hardware needed : 
 
