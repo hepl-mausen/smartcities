@@ -30,7 +30,87 @@ color_chase(*color, time between colors*) : change the color displayed by the le
 
 # RGB Led
 
-We will use the ws2813 mini. When we set RGB LED to display different colors, we only need to set the values of red (R),
-green (g), and blue (b) respectively. The red, green and blue color channels are divided into 256
-levels of brightness, that is, 0-255. The value of 0 is the least bright, which is synonymous with
-turning off the light, while the most bright at the value of 255.
+We will use the ws2813 mini. 
+
+![image](https://user-images.githubusercontent.com/124889423/232336646-210cec74-4558-461d-b50a-39196d946d4d.png)
+
+When we set RGB LED to display different colors, we only need to set the values of red (R), green (g), and blue (b) respectively. The red, green and blue color channels are divided into 256 levels of brightness, that is, 0-255. The value of 0 is the least bright, which is synonymous with turning off the light, while the most bright at the value of 255.
+
+Colors and how the create them : 
+
+![image](https://user-images.githubusercontent.com/124889423/232336908-a4f75890-6efd-4380-8216-ca12e8ed9db0.png)
+
+
+## Switching the colors of the led 
+This code will mak a the led change of colors with a list and a for loop.
+### hardware needed : 
+
+- Raspberry Pi Pico
+- Grove Shield for Pi Pico
+- Grove - RGB LED (WS2813 Mini)
+
+### Connections :
+![image](https://user-images.githubusercontent.com/124889423/232337614-512d64f9-f215-4844-9539-17a6dc3b89a6.png)
+
+### Code : 
+
+![image](https://user-images.githubusercontent.com/124889423/232337649-12fc0fb8-1170-4175-9da7-44ef59cd1237.png)
+
+### Demonstration :
+
+https://user-images.githubusercontent.com/124889423/232337826-351aaa16-650d-4916-b0bd-1c4934c17be1.mp4
+
+
+## intellingent light
+
+This code make the led change of colors with a list under certain conditions 
+
+### Hardware needed :
+- Raspberry Pi Pico
+- Grove Shield for Pi Pico
+- Grove - RGB LED (WS2813 Mini)
+- Grove - Light Sensor
+- Grove - Sound Sensor
+
+### Connections : 
+
+![image](https://user-images.githubusercontent.com/124889423/232340993-8a736cf3-6979-4d14-82bf-ca17f7573687.png)
+
+### Code : 
+
+![image](https://user-images.githubusercontent.com/124889423/232341138-4b68ad65-870a-455a-b41e-b4d914e572e9.png)
+
+### Demonstration : 
+
+https://user-images.githubusercontent.com/124889423/232341584-6a88517f-71fc-4353-be16-c5531ae1c36f.mp4
+
+### Making a rainbow with the led. 
+
+https://user-images.githubusercontent.com/124889423/232342465-9ac7ecec-aac3-4d14-bd55-6a59f6f6baf5.mp4
+
+
+
+## 3 ways tu make a rainbow
+
+### Hardware needed :
+- Raspberry Pi Pico
+- Grove Shield for Pi Pico
+- Grove - RGB LED (WS2813 Mini)
+
+### Connections : 
+
+![image](https://user-images.githubusercontent.com/124889423/232337614-512d64f9-f215-4844-9539-17a6dc3b89a6.png)
+
+### Code using rainbow function : 
+
+![image](https://user-images.githubusercontent.com/124889423/232342620-5c27097a-2b9b-44e6-b348-93e164d05a39.png)
+
+### Demonstration : 
+
+https://user-images.githubusercontent.com/124889423/232342634-48402c9b-7d8c-4beb-85f4-7e66ed4a0556.mp4
+
+### Code using chase function : 
+
+![image](https://user-images.githubusercontent.com/124889423/232342659-9201b05d-2894-47a4-919a-c69a95b45c90.png)
+
+### Demonstration : 
