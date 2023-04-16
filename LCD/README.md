@@ -1,4 +1,4 @@
-# Python fucntions used below 
+# Python functions used below 
 
 from ... import ... : import un function from a library.
 
