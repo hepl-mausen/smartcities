@@ -112,10 +112,10 @@ https://user-images.githubusercontent.com/124889423/232342634-48402c9b-7d8c-4beb
 
 https://user-images.githubusercontent.com/124889423/232343051-84abf9fb-bcb4-4185-8444-e29747e962a6.mp4
 
-### Code using the previous functions 
+### Code using the previous functions :
 
 ![image](https://user-images.githubusercontent.com/124889423/232343224-0dbb3fa5-6de2-44c7-8e25-b3a0172af134.png)
 
-### Demonstration 
+### Demonstration :
 
 https://user-images.githubusercontent.com/124889423/232343229-0c94be14-c10f-4839-91a3-767ac6f4f757.mp4
