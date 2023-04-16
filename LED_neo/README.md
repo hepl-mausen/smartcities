@@ -84,13 +84,8 @@ This code make the led change of colors with a list under certain conditions
 
 https://user-images.githubusercontent.com/124889423/232341584-6a88517f-71fc-4353-be16-c5531ae1c36f.mp4
 
-### Making a rainbow with the led. 
 
-https://user-images.githubusercontent.com/124889423/232342465-9ac7ecec-aac3-4d14-bd55-6a59f6f6baf5.mp4
-
-
-
-## 3 ways tu make a rainbow
+## 3 ways to make a rainbow
 
 ### Hardware needed :
 - Raspberry Pi Pico
@@ -114,3 +109,13 @@ https://user-images.githubusercontent.com/124889423/232342634-48402c9b-7d8c-4beb
 ![image](https://user-images.githubusercontent.com/124889423/232342659-9201b05d-2894-47a4-919a-c69a95b45c90.png)
 
 ### Demonstration : 
+
+https://user-images.githubusercontent.com/124889423/232343051-84abf9fb-bcb4-4185-8444-e29747e962a6.mp4
+
+### Code using the previous functions 
+
+![image](https://user-images.githubusercontent.com/124889423/232343224-0dbb3fa5-6de2-44c7-8e25-b3a0172af134.png)
+
+### Demonstration 
+
+https://user-images.githubusercontent.com/124889423/232343229-0c94be14-c10f-4839-91a3-767ac6f4f757.mp4
