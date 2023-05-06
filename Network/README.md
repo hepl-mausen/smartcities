@@ -19,6 +19,8 @@ This code connects the Pico to Internet
 
 ## Result :
 Here is what appears in the Thonnys consol
+![image](https://user-images.githubusercontent.com/124889423/236649033-422f9e18-e842-44a1-9ca1-d1ccbaabd729.png)
+
 
 
 # Date and Time on LCD
