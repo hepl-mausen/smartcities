@@ -46,7 +46,11 @@ toggle() : switch the state of a pin
 
 ![image](https://user-images.githubusercontent.com/124889423/232344415-d72a7bf7-5fa2-4fc2-8921-a24b328ddca8.png)
 
-The DHT11 is a humidity and temperature sensor. 
+The DHT11 is a humidity and temperature sensor.
+
+All the codes used below with comments :
+- [Mini Fan](MiniFan.py)
+- [DHT11](DHT11.py)
 
 ## Display temperature and humidity on LCD 
 
